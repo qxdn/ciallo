@@ -2,6 +2,7 @@ import { createRoot } from 'react-dom/client';
 import React, { useEffect } from 'react';
 import Ciallo from './components/Ciallo';
 import Jumper from './components/Jumper';
+// TODO:晚点改成cdn形式
 import meguru from './assets/meguru.aac'
 
 const colorMap = [{
